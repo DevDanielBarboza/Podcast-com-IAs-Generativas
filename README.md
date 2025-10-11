@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./output/Gemini_Generated_Image_aaymj1aaymj1aaym.png"
+    src="Podcast ia/Assets/Cover.png"
     width="300"
 />
 </p>
