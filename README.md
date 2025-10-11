@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  🎧 <a href="Podcast ia/output/Podcast Audio.m4a</a>
+  🎧 <a href="./output/Podcast Audio.m4a"<Escute o episódio (MP3)></a>
 </div>
 
 ---
